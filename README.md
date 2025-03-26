@@ -5,5 +5,5 @@
 
 ![wakatime](https://wakatime.com/share/@DevLeriTo/07627c98-1b0d-49d5-b065-d3a87f0b5a4a.png)
 
-### Don't forgot to check
+### Don't forget to check
 ### [Actunime Github](https://github.com/Actunime)
