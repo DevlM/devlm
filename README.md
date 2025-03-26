@@ -4,6 +4,8 @@
 
 
 ![wakatime](https://wakatime.com/share/@DevLeriTo/07627c98-1b0d-49d5-b065-d3a87f0b5a4a.png)
+<br />
+[![wakatime](https://wakatime.com/badge/user/82098614-ee22-448b-b287-c497573c0e28.svg)](https://wakatime.com/@82098614-ee22-448b-b287-c497573c0e28)
 
 ### Fondateur de la communauté Actunime et du projet Actunime
 [![Discord](https://img.shields.io/discord/940648714790400000?label=Rejoindre%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/TJuKYa694n)
