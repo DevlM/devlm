@@ -9,7 +9,7 @@
   <img align="center" src= "https://wakatime.com/share/@DevLeriTo/eef622f3-60f1-4695-9f9b-5be8cdf56248.svg" alt=C# width="100%" height="100%" />
   <br />
   <br />
-  <img align="center" src= "https://wakatime.com/badge/user/82098614-ee22-448b-b287-c497573c0e28.svg" alt=C# width="60%" height="100%" />
+  <img align="center" src= "https://wakatime.com/badge/user/82098614-ee22-448b-b287-c497573c0e28.svg" alt=C# width="20%" height="100%" />
 </a>
 
 ### Fondateur de la communauté Actunime et du projet Actunime
