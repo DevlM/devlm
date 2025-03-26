@@ -5,6 +5,8 @@
 
 ![wakatime](https://wakatime.com/share/@DevLeriTo/07627c98-1b0d-49d5-b065-d3a87f0b5a4a.png)
 <br />
+![wakatime](https://wakatime.com/share/@DevLeriTo/eef622f3-60f1-4695-9f9b-5be8cdf56248.svg)
+<br />
 [![wakatime](https://wakatime.com/badge/user/82098614-ee22-448b-b287-c497573c0e28.svg)](https://wakatime.com/@82098614-ee22-448b-b287-c497573c0e28)
 
 ### Fondateur de la communauté Actunime et du projet Actunime
